@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Jugar De Prueba
+  - Enemigo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Interactivo
+  - Murallas
+  - Player
+  - Minimapa
+  - Muerto
+  - Objeto
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Muralla
+    uniqueID: 2806697675
+    locked: 0
+  - name: Drop
+    uniqueID: 3834072183
+    locked: 0
+  - name: Elementos
+    uniqueID: 2427050989
+    locked: 0
+  - name: TEXTO
+    uniqueID: 3530314965
+    locked: 0
